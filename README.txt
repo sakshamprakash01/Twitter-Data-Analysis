@@ -1,0 +1,1 @@
+Twitter Data as part of a course project: This included fetching tweets from trending hashtags, pre-processing data, Sentiment Analysis and Clustering using K-Means algorithm.
